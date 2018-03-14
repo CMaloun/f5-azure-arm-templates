@@ -39,7 +39,7 @@
             "value": "Azure-Network-F5-MGMT"
         }, 
         "mgmtIpAddressRangeStart": {
-            "value": "10.1.193.0"
+            "value": "10.1.193.10"
         }, 
         "externalSubnetName": {
             "value": "Azure-Network-F5-EXT"
@@ -48,13 +48,13 @@
             "value": "10.1.194.100"
         }, 
         "externalIpAddressRangeStart": {
-            "value": "10.1.194.0"
+            "value": "10.1.194.10"
         }, 
         "internalSubnetName": {
             "value": "Azure-Network-F5-INT"
         }, 
         "internalIpAddressRangeStart": {
-            "value": "10.1.195.0"
+            "value": "10.1.195.10"
         }, 
         "tenantId": {
             "value": "461a774b-c94c-4ea0-b027-311a135d9234"
