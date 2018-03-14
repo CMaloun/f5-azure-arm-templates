@@ -6,10 +6,10 @@
             "value": "azureuser"
         }, 
         "adminPassword": {
-            "value": "GEN_UNIQUE"
+            "value": "AweS0me@PW!!"
         }, 
         "dnsLabel": {
-            "value": "REQUIRED"
+            "value": "tsf5"
         }, 
         "instanceName": {
             "value": "f5vm01"
@@ -24,52 +24,52 @@
             "value": "13.1.0200"
         }, 
         "licensedBandwidth": {
-            "value": "200m"
+            "value": "25m"
         }, 
         "numberOfExternalIps": {
             "value": 1
         }, 
         "vnetName": {
-            "value": "GEN_UNIQUE"
+            "value": "Azure-Network-Global"
         }, 
         "vnetResourceGroupName": {
-            "value": "GEN_UNIQUE"
+            "value": "Test-AZURE-IAAS-Grunt"
         }, 
         "mgmtSubnetName": {
-            "value": "GEN_UNIQUE"
+            "value": "Azure-Network-F5-MGMT"
         }, 
         "mgmtIpAddressRangeStart": {
-            "value": "GEN_UNIQUE"
+            "value": "10.1.193.0"
         }, 
         "externalSubnetName": {
-            "value": "GEN_UNIQUE"
+            "value": "Azure-Network-F5-EXT"
         }, 
         "externalIpSelfAddressRangeStart": {
-            "value": "GEN_UNIQUE"
+            "value": "10.1.194.100"
         }, 
         "externalIpAddressRangeStart": {
-            "value": "GEN_UNIQUE"
+            "value": "10.1.194.0"
         }, 
         "internalSubnetName": {
-            "value": "GEN_UNIQUE"
+            "value": "Azure-Network-F5-INT"
         }, 
         "internalIpAddressRangeStart": {
-            "value": "GEN_UNIQUE"
+            "value": "10.1.195.0"
         }, 
         "tenantId": {
-            "value": "GEN_UNIQUE"
+            "value": "461a774b-c94c-4ea0-b027-311a135d9234"
         }, 
         "clientId": {
-            "value": "GEN_UNIQUE"
+            "value": "7f2735aa-86b9-4598-b350-d8bdd1c2ff63"
         }, 
         "servicePrincipalSecret": {
-            "value": "GEN_UNIQUE"
+            "value": "ce51ae51-d991-4b05-a850-d33785b3b77d"
         }, 
         "managedRoutes": {
-            "value": "NOT_SPECIFIED"
+            "value": "0.0.0.0/0,192.168.1.0/24"
         }, 
         "routeTableTag": {
-            "value": "NOT_SPECIFIED"
+            "value": "myRoute"
         }, 
         "ntpServer": {
             "value": "0.pool.ntp.org"
